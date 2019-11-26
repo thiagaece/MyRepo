@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44320" started-at="2019-11-16T17:51:56 IST" finished-at="2019-11-16T17:52:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44320" started-at="2019-11-16T17:51:56 IST" finished-at="2019-11-16T17:52:41 IST">
+      <class name="testSuites.bookTravel">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testSuites.bookTravel@131276c2]" name="beforeTest" is-config="true" duration-ms="6716" started-at="2019-11-16T17:51:56 IST" finished-at="2019-11-16T17:52:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testSuites.bookTravel@131276c2]" name="login" duration-ms="10973" started-at="2019-11-16T17:52:03 IST" finished-at="2019-11-16T17:52:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchFlights()[pri:1, instance:testSuites.bookTravel@131276c2]" name="searchFlights" duration-ms="15290" started-at="2019-11-16T17:52:14 IST" finished-at="2019-11-16T17:52:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlights -->
+        <test-method status="PASS" signature="selectTickets()[pri:2, instance:testSuites.bookTravel@131276c2]" name="selectTickets" duration-ms="11304" started-at="2019-11-16T17:52:29 IST" finished-at="2019-11-16T17:52:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTickets -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testSuites.bookTravel@131276c2]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-11-16T17:52:41 IST" finished-at="2019-11-16T17:52:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testSuites.bookTravel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
